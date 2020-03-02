@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Update on master
-=======
-Update on newbranch
->>>>>>> newbranch
