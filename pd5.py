@@ -35,6 +35,7 @@ def main():
                 topNode = stockInfoDict.get("Global Quote")
 
                 print("The current price of",symbol,"is:", topNode['05. price'])
+                print("Stock Quotes retrieved successfully!”)
 
             except Exception as stockError:
                 print("Error",stockError)
